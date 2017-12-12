@@ -1,3 +1,5 @@
+# Ignore Play! working directory #
+bin/
 logs
 target
 /.idea
@@ -6,3 +8,16 @@ target
 /.project
 /.settings
 /RUNNING_PID
+/db
+/lib/
+/logs/
+/modules
+/project/project
+/project/target
+/target
+tmp/
+test-result
+server.pid
+*.eml
+/dist/
+.cache
